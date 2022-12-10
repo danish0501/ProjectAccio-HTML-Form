@@ -1,0 +1,33 @@
+.container {
+    background-color: #222222;
+    height: 640px;
+}
+.internal-container {
+    font: 1em sans-serif;
+    background-color: black;
+    color: white;
+    width: 600px;
+    height: 350px;
+    padding: 70px;
+    margin-left: 300px;
+    position: absolute;
+    top: 120px;
+}
+.form {
+    width: 600px;
+    height: 20px;
+    border: none;
+    background: transparent;
+    border-bottom: 1px solid white;
+}
+.signup {
+    color: grey;
+    font-size: 30px;
+    position: absolute;
+    left: 310px;
+    top: 50px;
+}
+.btn {
+    width: 100px;
+    height: 30px;
+}
